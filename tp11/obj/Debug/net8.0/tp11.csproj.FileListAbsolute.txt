@@ -1,0 +1,14 @@
+E:\oudihat\d3\tp11\tp11\obj\Debug\net8.0\tp11.GeneratedMSBuildEditorConfig.editorconfig
+E:\oudihat\d3\tp11\tp11\obj\Debug\net8.0\tp11.AssemblyInfoInputs.cache
+E:\oudihat\d3\tp11\tp11\obj\Debug\net8.0\tp11.AssemblyInfo.cs
+E:\oudihat\d3\tp11\tp11\obj\Debug\net8.0\tp11.csproj.CoreCompileInputs.cache
+E:\oudihat\d3\tp11\tp11\bin\Debug\net8.0\tp11.exe
+E:\oudihat\d3\tp11\tp11\bin\Debug\net8.0\tp11.deps.json
+E:\oudihat\d3\tp11\tp11\bin\Debug\net8.0\tp11.runtimeconfig.json
+E:\oudihat\d3\tp11\tp11\bin\Debug\net8.0\tp11.dll
+E:\oudihat\d3\tp11\tp11\bin\Debug\net8.0\tp11.pdb
+E:\oudihat\d3\tp11\tp11\obj\Debug\net8.0\tp11.dll
+E:\oudihat\d3\tp11\tp11\obj\Debug\net8.0\refint\tp11.dll
+E:\oudihat\d3\tp11\tp11\obj\Debug\net8.0\tp11.pdb
+E:\oudihat\d3\tp11\tp11\obj\Debug\net8.0\tp11.genruntimeconfig.cache
+E:\oudihat\d3\tp11\tp11\obj\Debug\net8.0\ref\tp11.dll
